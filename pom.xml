@@ -6,7 +6,7 @@
 
     <groupId>name.tunovic.contract</groupId>
     <artifactId>contract-testing</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <properties>
         <spring-cloud-contract.version>2.1.0.BUILD-SNAPSHOT</spring-cloud-contract.version>
